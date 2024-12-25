@@ -2,7 +2,6 @@
 <p align="center"><i>- JACK MA -</i></p>
 
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
-
 **Profile Summary**
 
 Dynamic and highly skilled Frontend Developer with a strong foundation in web development and user interface design. Specializes in creating responsive, user-friendly web applications leveraging modern frameworks and technologies. Proficient in JavaScript, React, Next JS with a demonstrated ability to translate design concepts into engaging, interactive experiences. A self-motivated professional dedicated to continuous learning and staying current with industry trends. Excels in collaborative environments, effectively working with cross-functional teams. Currently seeking opportunities to enhance user experiences and contribute to impactful projects.
